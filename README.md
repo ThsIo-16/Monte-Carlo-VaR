@@ -23,7 +23,7 @@ Monte_Carlo_VaR/
 
 1. **Clone the repository:**
    ```bash
-   git clone <>
+   git clone https://github.com/ThsIo-16/Monte-Carlo-VaR.git
    cd Monte_Carlo_VaR
    ```
 
